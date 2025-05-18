@@ -1,0 +1,254 @@
+{
+  "plan_created": "2025-05-18T07:25:30.941705",
+  "planning_period": "14 days",
+  "total_highlights": 1,
+  "platforms": {
+    "instagram": {
+      "total_posts_planned": 1,
+      "optimal_posting_times": [
+        "09:00",
+        "12:00",
+        "17:00",
+        "20:00"
+      ],
+      "content_strategy": "Стратегия контента для instagram",
+      "hashtag_strategy": {
+        "always_include": [
+          "#azgroup",
+          "#образование",
+          "#обучение",
+          "#школа"
+        ],
+        "platform_specific": [
+          "#reels",
+          "#education",
+          "#learning",
+          "#russia"
+        ],
+        "trending": "Добавлять трендовые хэштеги еженедельно",
+        "limit": 30
+      },
+      "expected_metrics": {
+        "estimated_total_views": 2000,
+        "estimated_engagement_rate": 0.05,
+        "estimated_new_followers": 10,
+        "performance_benchmark": "Сравнить с предыдущими месяцами"
+      }
+    },
+    "tiktok": {
+      "total_posts_planned": 1,
+      "optimal_posting_times": [
+        "06:00",
+        "10:00",
+        "16:00",
+        "19:00"
+      ],
+      "content_strategy": "Стратегия контента для tiktok",
+      "hashtag_strategy": {
+        "always_include": [
+          "#azgroup",
+          "#образование",
+          "#обучение",
+          "#школа"
+        ],
+        "platform_specific": [
+          "#fyp",
+          "#viral",
+          "#eduktok",
+          "#russia"
+        ],
+        "trending": "Добавлять трендовые хэштеги еженедельно",
+        "limit": 10
+      },
+      "expected_metrics": {
+        "estimated_total_views": 5000,
+        "estimated_engagement_rate": 0.08,
+        "estimated_new_followers": 10,
+        "performance_benchmark": "Сравнить с предыдущими месяцами"
+      }
+    },
+    "youtube_shorts": {
+      "total_posts_planned": 1,
+      "optimal_posting_times": [
+        "14:00",
+        "18:00",
+        "21:00"
+      ],
+      "content_strategy": "Стратегия контента для youtube_shorts",
+      "hashtag_strategy": {
+        "always_include": [
+          "#azgroup",
+          "#образование",
+          "#обучение",
+          "#школа"
+        ],
+        "platform_specific": [
+          "#shorts",
+          "#education",
+          "#learning"
+        ],
+        "trending": "Добавлять трендовые хэштеги еженедельно",
+        "limit": 15
+      },
+      "expected_metrics": {
+        "estimated_total_views": 3000,
+        "estimated_engagement_rate": 0.04,
+        "estimated_new_followers": 10,
+        "performance_benchmark": "Сравнить с предыдущими месяцами"
+      }
+    }
+  },
+  "weekly_themes": {
+    "week_1": "Математические открытия",
+    "week_2": "Активное обучение",
+    "week_3": "Креативные методы преподавания",
+    "week_4": "Успехи учеников"
+  },
+  "content_calendar": [
+    {
+      "date": "2025-05-18",
+      "day_name": "Sunday",
+      "posts": {
+        "youtube_shorts": [
+          {
+            "highlight_id": "highlight_1",
+            "timestamp": "10:15-11:00",
+            "post_time": "21:00",
+            "caption": "Этот момент озарения стоит тысячи слов! 💡 математика ##образование ##математика ##озарение ##обучение ##azgroup",
+            "hashtags": [
+              "##образование",
+              "##математика",
+              "##озарение",
+              "##обучение",
+              "##azgroup"
+            ],
+            "expected_length": "45s",
+            "editing_notes": [
+              "Выделить момент озарения ученика"
+            ],
+            "engagement_strategy": {
+              "post_timing": "Оптимальное время публикации",
+              "engagement_tactics": {
+                "call_to_action": "А какой ваш любимый предмет? 💭",
+                "questions": [
+                  "Помните свой первый момент понимания математики?"
+                ],
+                "interaction_hooks": [
+                  "Поставьте ❤️ если тоже любите математику!"
+                ]
+              },
+              "follow_up_actions": [
+                "Отвечать на комментарии в первые 2 часа",
+                "Лайкать комментарии подписчиков",
+                "Делиться в Stories с дополнительным контентом"
+              ]
+            }
+          }
+        ]
+      },
+      "total_posts": 1
+    },
+    {
+      "date": "2025-05-19",
+      "day_name": "Monday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-20",
+      "day_name": "Tuesday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-21",
+      "day_name": "Wednesday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-22",
+      "day_name": "Thursday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-23",
+      "day_name": "Friday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-24",
+      "day_name": "Saturday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-25",
+      "day_name": "Sunday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-26",
+      "day_name": "Monday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-27",
+      "day_name": "Tuesday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-28",
+      "day_name": "Wednesday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-29",
+      "day_name": "Thursday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-30",
+      "day_name": "Friday",
+      "posts": {},
+      "total_posts": 0
+    },
+    {
+      "date": "2025-05-31",
+      "day_name": "Saturday",
+      "posts": {},
+      "total_posts": 0
+    }
+  ],
+  "performance_tracking": {
+    "kpis": {
+      "reach": "Охват аудитории",
+      "engagement_rate": "Уровень вовлеченности",
+      "saves": "Сохранения",
+      "shares": "Репосты",
+      "comments": "Комментарии",
+      "profile_visits": "Переходы в профиль"
+    },
+    "tracking_schedule": "Еженедельный анализ",
+    "optimization_triggers": [
+      "Низкий охват (<1000 просмотров)",
+      "Низкая вовлеченность (<3%)",
+      "Отсутствие комментариев"
+    ]
+  },
+  "content_optimization": [
+    "A/B тестировать время публикации",
+    "Экспериментировать с разными хэштегами",
+    "Анализировать наиболее успешные форматы",
+    "Создавать серии из связанных highlights",
+    "Использовать пользовательский контент",
+    "Взаимодействовать с образовательными аккаунтами"
+  ]
+}
