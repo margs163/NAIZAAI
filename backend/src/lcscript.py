@@ -189,8 +189,8 @@ app = parallel_graph.compile()
 if __name__ == "__main__":
     pass
     async def main():
-        extract_audio("./audio/test.mp4", "./audio/output.wav")
-        result = transcribe_audio_in_chunks(Path("./audio/output.wav"))
+        extract_audio("../data/test.mp4", "../data/output.wav")
+        result = transcribe_audio_in_chunks(Path("./data/output.wav"))
         state = await app.ainvoke({"transcriptions": result})
         pprint(state["highlight"])
         h_time = [time.timestamp for time in state["highlight"]]

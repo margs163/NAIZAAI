@@ -2,7 +2,7 @@
 import { Skeleton } from "@/components/ui/skeleton";
 export default function Clips({ fileClips }) {
   return (
-    <div className="flex flex-col gap-6 lg:gap-10 max-w-[370px] lg:max-w-[920px] mx-auto p-6 lg:p-12">
+    <div className="flex flex-col gap-6 lg:gap-10 max-w-[370px] lg:max-w-[920px] mx-auto p-6">
       <h2 className="text-3xl font-semibold text-gray-50 pl-2 lg:text-4xl">
         Generated <span className="text-fuchsia-600">clips</span>
       </h2>
@@ -26,7 +26,7 @@ export default function Clips({ fileClips }) {
               return (
                 <div
                   key={index}
-                  className="w-[265px] lg:w-[400px] lg:h-[225px] h-[135px] rounded-lg border-2 border-gray-200"
+                  className="w-[265px] lg:w-[400px] lg:h-[225px] h-[135px] rounded-lg border-2 border-gray-200 pb-1"
                 >
                   <video
                     src={item}

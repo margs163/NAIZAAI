@@ -82,7 +82,11 @@ export default function AutoPosting({
                     name="video_path"
                   >
                     {fileClips.paths.map((item, index) => {
-                      return <option value={item}>Video Clip {index}</option>;
+                      return (
+                        <option key={index} value={item}>
+                          Video Clip {index}
+                        </option>
+                      );
                     })}
                   </select>
                 </div>

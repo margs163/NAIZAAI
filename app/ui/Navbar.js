@@ -14,7 +14,7 @@ export default function Navbar() {
                   Shorte
                 </h1> */}
                 <Image
-                  src={"/lgbt(1).png"}
+                  src={"/logo.png"}
                   alt="something"
                   width={200}
                   height={100}

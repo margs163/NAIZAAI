@@ -63,7 +63,7 @@ export default function PlanTable({ fileClips }) {
                   <td className="p-4 text-white">{desc}</td>
                   <td className="p-4 text-white">{dates[index]}</td>
                   <td className="p-4 text-purple-400">
-                    {" ".join(fileClips.tags[index])}
+                    {fileClips.tags[index].join(" ")}
                   </td>
                 </tr>
               ))}
