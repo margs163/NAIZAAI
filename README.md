@@ -2,10 +2,11 @@
 
 **AI-Powered Video Highlight Detection & Social Media Publishing Platform**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-14+-black.svg)](https://nextjs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+![WhatsApp Image 2025-05-18 at 08 56 22](https://github.com/user-attachments/assets/9676d0dd-4189-427c-8f77-0abda037ef1a)
+![WhatsApp Image 2025-05-18 at 09 00 20](https://github.com/user-attachments/assets/69c9fc20-c12e-462a-a030-08de92ccd26b)
+![WhatsApp Image 2025-05-18 at 09 00 37](https://github.com/user-attachments/assets/bb1fb5a4-180e-40bb-b8cf-85759af5755f)
+![WhatsApp Image 2025-05-18 at 09 01 10](https://github.com/user-attachments/assets/96be3ca4-04e8-4630-a89c-0f1d431d8ca4)
+![image](https://github.com/user-attachments/assets/41a3101f-e03c-440f-9697-a639a23f5cc9)
 
 ## 🚀 Overview
 
@@ -76,7 +77,7 @@ NaizaAI leverages advanced AI algorithms to:
    ```bash
    cd backend
    pip install -r requirements.txt
-   uvicorn main:app --reload
+   fastapi dev backend/main.py
    ```
 
 3. **Frontend Setup**
@@ -153,10 +154,11 @@ NaizaAI was developed as part of [Hackathon Name] with the goal of revolutionizi
 
 ## 👥 Team
 
-- **Lead Developer**: [Your Name]
-- **AI Engineer**: [Team Member]
-- **Frontend Developer**: [Team Member]
-- **Product Designer**: [Team Member]
+- **Lead Developer**: Aldanov Daniyal
+- **AI Engineer**: Aldanov Daniyal
+- **Frontend Developer**: Aldanov Daniyal
+- **Product Designer**: Kaisayev Medet
+- **UI/UX Designer**: Kaisayev Medet
 
 ## 📞 Contact
 
@@ -170,4 +172,4 @@ For questions, suggestions, or collaboration opportunities:
 
 ⭐ **Star this repository if you found NaizaAI helpful!**
 
-*Built with ❤️ during [Hackathon Name]*
+*Built with ❤️ during SkillSet 2025, by team Zhanashyr*
