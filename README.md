@@ -25,6 +25,9 @@ NaizaAI leverages advanced AI algorithms to:
 - Provide strategic publishing recommendations
 - Enable direct publishing to social media platforms
 
+### Demo Video
+https://www.youtube.com/watch?v=2P_AZK7nXCg
+
 ## ✨ Features
 
 ### 🎥 Core Features
@@ -151,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏆 Hackathon Achievement
 
-NaizaAI was developed as part of [Hackathon Name] with the goal of revolutionizing content creation for the digital age. Our team successfully delivered a working prototype that addresses real-world challenges faced by content creators and businesses.
+NaizaAI was developed as part of SkillSet with the goal of revolutionizing content creation for the digital age. Our team successfully delivered a working prototype that addresses real-world challenges faced by content creators and businesses.
 
 ## 👥 Team
 
