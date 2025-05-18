@@ -3,7 +3,6 @@
 **AI-Powered Video Highlight Detection & Social Media Publishing Platform**
 
 ![WhatsApp Image 2025-05-18 at 08 56 22](https://github.com/user-attachments/assets/9676d0dd-4189-427c-8f77-0abda037ef1a)
-![WhatsApp Image 2025-05-18 at 09 00 20](https://github.com/user-attachments/assets/69c9fc20-c12e-462a-a030-08de92ccd26b)
 ![WhatsApp Image 2025-05-18 at 09 00 37](https://github.com/user-attachments/assets/bb1fb5a4-180e-40bb-b8cf-85759af5755f)
 ![WhatsApp Image 2025-05-18 at 09 01 10](https://github.com/user-attachments/assets/96be3ca4-04e8-4630-a89c-0f1d431d8ca4)
 ![image](https://github.com/user-attachments/assets/41a3101f-e03c-440f-9697-a639a23f5cc9)
